@@ -7,7 +7,7 @@ def menu_2():
     print("Pasta : ", menu_dict['pasta'])
     print("Burger : ", menu_dict['burger'])
     print("Fries : ", menu_dict['fries'])
-    print("Cocktail (sex on the beach) : ", menu_dict['cocktail'])
+    print("Cocktail  : ", menu_dict['cocktail'])
     print("Coffee : ", menu_dict['coffee'])
 
 print(menu_2())
